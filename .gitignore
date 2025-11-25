@@ -1,0 +1,8 @@
+node_modules
+.next
+.env
+buratec-site.zip
+data/content.*.bak.json
+/dev.db
+.DS_Store
+.vscode
