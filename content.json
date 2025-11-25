@@ -1,0 +1,15 @@
+{
+  "fr": {
+    "siteTitle": "BURATEC - Sécurité & Nettoyage",
+    "home": {
+      "heroTitle": "Sécurité professionnelle pour entreprises",
+      "heroSubtitle": "Solutions sur mesure pour sites industriels et tertiaires",
+      "cta": "Contactez-nous"
+    },
+    "services": [
+      {"id":"s1","title":"Garde statique","desc":"Surveillance 24/7, agents formés."},
+      {"id":"s2","title":"Nettoyage industriel","desc":"Entretien complet des locaux et ateliers."}
+    ],
+    "contact": {"phone":"+212 600 000000","email":"contact@buratec.example"}
+  }
+}
